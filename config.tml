@@ -1,0 +1,9 @@
+[server]
+host = "news.yahoo.co.jp"
+port = "80"
+
+[uri]
+path = [
+  "/pickup/6188375",
+  "/pickup/6188381"
+  ]
